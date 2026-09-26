@@ -1,0 +1,6 @@
+ccxt
+aiohttp
+pandas
+pandas-ta-classic
+numpy
+aiosqlite

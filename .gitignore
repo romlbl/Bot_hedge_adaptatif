@@ -1,0 +1,8 @@
+__pycache__/
+backtest_cache/
+commandes.txt
+backtest.py
+architecture.md
+*.pyc
+.venv/
+.env
